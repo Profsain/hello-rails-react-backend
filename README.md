@@ -57,6 +57,7 @@ Rails React Backend API
 ### Key Features <a name="key-features"></a>
 
 - rails react backend api 
+- Rails React Frontend App PR link: https://github.com/Profsain/hello-react-frontend/pull/1
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
